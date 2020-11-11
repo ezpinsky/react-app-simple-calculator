@@ -1,12 +1,11 @@
-import React from 'react';
-import Calculator from './Calculator';
+import React from "react";
+import Calculator from "./Calculator";
 
 const App = () => (
-    <div classname="App">
-      <h1>Calculator</h1>
-      <Calculator />
-    </div>
-  );
-
+  <div className="App">
+    <h1>Calculator</h1>
+    <Calculator />
+  </div>
+);
 
 export default App;
